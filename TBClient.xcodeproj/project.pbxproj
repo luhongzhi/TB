@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A426593C16EB343E0007FAA4 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = A426593B16EB343E0007FAA4 /* CustomImageView.m */; };
+		A426FA68170BDF570064049E /* TBClientCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A426FA67170BDF570064049E /* TBClientCell.m */; };
 		A44F50EC16EB0E3F00A1075C /* ArrangeImageCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A44F50EB16EB0E3F00A1075C /* ArrangeImageCell.m */; };
 		A4568AB416EB556D00C15EDF /* SDImageView+SDWebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = A4568AB316EB556D00C15EDF /* SDImageView+SDWebCache.m */; };
 		A4568AC016EB559200C15EDF /* readme.txt in Resources */ = {isa = PBXBuildFile; fileRef = A4568AB616EB559200C15EDF /* readme.txt */; };
@@ -67,6 +68,8 @@
 /* Begin PBXFileReference section */
 		A426593A16EB343E0007FAA4 /* CustomImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomImageView.h; sourceTree = "<group>"; };
 		A426593B16EB343E0007FAA4 /* CustomImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomImageView.m; sourceTree = "<group>"; };
+		A426FA66170BDF570064049E /* TBClientCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TBClientCell.h; sourceTree = "<group>"; };
+		A426FA67170BDF570064049E /* TBClientCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TBClientCell.m; sourceTree = "<group>"; };
 		A44F50EA16EB0E3F00A1075C /* ArrangeImageCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ArrangeImageCell.h; sourceTree = "<group>"; };
 		A44F50EB16EB0E3F00A1075C /* ArrangeImageCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ArrangeImageCell.m; sourceTree = "<group>"; };
 		A4568AB216EB556D00C15EDF /* SDImageView+SDWebCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SDImageView+SDWebCache.h"; sourceTree = "<group>"; };
@@ -265,6 +268,8 @@
 		B95D4DFF16E7097B001DB4CE = {
 			isa = PBXGroup;
 			children = (
+				A426FA66170BDF570064049E /* TBClientCell.h */,
+				A426FA67170BDF570064049E /* TBClientCell.m */,
 				B95D4E1416E7097B001DB4CE /* TBClient */,
 				B95D4E0D16E7097B001DB4CE /* Frameworks */,
 				B95D4E0B16E7097B001DB4CE /* Products */,
@@ -843,6 +848,7 @@
 				B9BA013216EB5E0D0090D306 /* ItemList.m in Sources */,
 				B99DFBFE16EB97FA002DDC58 /* HBTableView.m in Sources */,
 				B99DFC0116EB9EDA002DDC58 /* LoadMoreDataCell.m in Sources */,
+				A426FA68170BDF570064049E /* TBClientCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
