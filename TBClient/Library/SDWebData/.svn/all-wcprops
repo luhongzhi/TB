@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ingkertbclient/!svn/ver/44/2/TBClient/TBClient/Library/SDWebData
+END
+SDWebDataManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ingkertbclient/!svn/ver/44/2/TBClient/TBClient/Library/SDWebData/SDWebDataManager.h
+END
+SDNetworkActivityIndicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ingkertbclient/!svn/ver/44/2/TBClient/TBClient/Library/SDWebData/SDNetworkActivityIndicator.h
+END
+SDWebImageCompatibly.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ingkertbclient/!svn/ver/44/2/TBClient/TBClient/Library/SDWebData/SDWebImageCompatibly.h
+END
+SDWebDataDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ingkertbclient/!svn/ver/44/2/TBClient/TBClient/Library/SDWebData/SDWebDataDownloader.h
+END
+SDWebDataManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ingkertbclient/!svn/ver/44/2/TBClient/TBClient/Library/SDWebData/SDWebDataManager.m
+END
+SDDataCacheManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ingkertbclient/!svn/ver/44/2/TBClient/TBClient/Library/SDWebData/SDDataCacheManager.h
+END
+SDNetworkActivityIndicator.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ingkertbclient/!svn/ver/44/2/TBClient/TBClient/Library/SDWebData/SDNetworkActivityIndicator.m
+END
+SDWebDataDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ingkertbclient/!svn/ver/44/2/TBClient/TBClient/Library/SDWebData/SDWebDataDownloader.m
+END
+SDDataCacheManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ingkertbclient/!svn/ver/44/2/TBClient/TBClient/Library/SDWebData/SDDataCacheManager.m
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ingkertbclient/!svn/ver/44/2/TBClient/TBClient/Library/SDWebData/readme.txt
+END
