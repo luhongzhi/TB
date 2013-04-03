@@ -13,6 +13,7 @@
 @interface HomeViewController ()
 @property (weak, nonatomic) IBOutlet UITableView *tableView;
 @property (nonatomic, strong) NSMutableArray *itemArray;
+@property (nonatomic, strong) NSMutableArray *array;
 @end
 
 @implementation HomeViewController
